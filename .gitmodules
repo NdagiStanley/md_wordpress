@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/aresivel"]
+	path = wp-content/themes/aresivel
+	url = https://github.com/NdagiStanley/md_wp_theme
